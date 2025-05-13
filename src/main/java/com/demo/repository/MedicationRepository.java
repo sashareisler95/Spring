@@ -1,6 +1,6 @@
 package com.demo.repository;
 
-import com.demo.repository.Medication;
+import com.demo.entity.Medication;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

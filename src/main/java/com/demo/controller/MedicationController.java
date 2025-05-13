@@ -1,6 +1,6 @@
 package com.demo.controller;
 
-import com.demo.repository.Medication;
+import com.demo.entity.Medication;
 import com.demo.service.MedicationService;
 import org.springframework.web.bind.annotation.*;
 
